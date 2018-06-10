@@ -1,0 +1,2 @@
+1- Pasar el diagrama de flujo a draw.io.
+2- Moficar la plantilla de Word de acuerdo con el diagrama de flujo.

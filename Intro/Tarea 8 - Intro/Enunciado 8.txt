@@ -1,0 +1,11 @@
+Programe una clase Figure que tiene un método llamado triangle que dibuja un triángulo del tamaño indicado por el usuario.
+ Para la creación del triángulo utilice un ciclo for y las instrucciones correspondientes para?? imprimir los asteriscos en consola. 
+La clase debe ser implementada en Java como Python. 
+En el caso de Java además debe implementar un método main para invocar al método triangle.
+Altura: 5
+
+*
+**
+***
+****
+*****

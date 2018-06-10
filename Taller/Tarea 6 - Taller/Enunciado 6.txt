@@ -1,0 +1,1 @@
+Esta fue una tarea de modificar un codigo con pygame

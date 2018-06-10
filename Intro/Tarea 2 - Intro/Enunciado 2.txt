@@ -1,0 +1,2 @@
+1- Suma valores de una lista.
+2- Sume todos los números pares de una lista.

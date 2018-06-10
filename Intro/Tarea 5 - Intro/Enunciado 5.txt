@@ -1,0 +1,1 @@
+Programe un función que realiza una búsqueda binaria de elementos en una lista ordenada. Utilice recursión de cola e índices.

@@ -1,0 +1,4 @@
+Programar una función que recibe como parámetro una lista de
+números, determinar cuáles números son primos y regresar una lista
+que contiene solo los números primos. Utilice una función para verificar la entrada, otra para determinar cuando un número es
+primo y otra para devolver la lista con el resultado

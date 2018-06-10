@@ -1,0 +1,4 @@
+1- Hacer una función que indique si una lista tiene al menos un cero. 
+Si la lista tiene un número cero, regresa True, sino, retorna False.
+
+2- Dada una lista de números y un número, elimine ese número de la lista

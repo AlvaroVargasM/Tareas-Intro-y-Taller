@@ -1,0 +1,11 @@
+Programar una clase con varios métodos para convertir números de decimal a binario y de binario a decimal.
+
+Ejemplos
+
+*Convertir a binario
+decimalBinario(105)
+1101001
+
+*Convertir a decimal
+binarioDecimal(10111101)
+189
